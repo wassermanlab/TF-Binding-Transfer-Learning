@@ -49,6 +49,7 @@
 16. **split_the_dataset_bm_multimodel.py** - splits data set for different multimodels;
 17. **models.py** - python script with model architectures;
 18. **tools.py** - python script with functions used to analyze the data;
+19. **deeplift_scores.py** - python script to compute DeepLIFT importance scores using the Captum library;
 
 
 
